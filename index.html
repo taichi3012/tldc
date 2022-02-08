@@ -1,11 +1,3 @@
 <script>
-    const URL_BASE = "https://taichi3012.github.io/ThelowDamageCalculation/";
-    let redireUrl = URL_BASE;
-
-    let query = window.location.href.split("?")[1];
-    if (query) {
-        redireUrl += "?" + query;
-    }
-    
-    window.location.href = redireUrl;
+    location.href = "https://taichi3012.github.io/ThelowDamageCalculation" + location.search;
 </script>
