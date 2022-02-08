@@ -1,0 +1,1 @@
+### [ThelowDamageCalculation](https://taichi3012.github.io/ThelowDamageCalculation/)に、短いリンクでリダイレクトさせるためのリポジトリです。
